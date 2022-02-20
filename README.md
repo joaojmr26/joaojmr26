@@ -1,1 +1,2 @@
-- Hello, i'm joaojmr26
+- 👋Hello, i'm joaojmr26
+- 📚Currently Studying Front-end and Game Development
