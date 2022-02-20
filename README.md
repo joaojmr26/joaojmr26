@@ -1,5 +1,4 @@
-- 👋Hello, i'm joaojmr26
-- 📚Currently Studying Front-end and Game Development
+## Oi, eu sou o João Marcos ou joaojmr26, Dev e Criador de Conteúdo
 
 <div align="center">
   <a href="https://github.com/onedark ">
