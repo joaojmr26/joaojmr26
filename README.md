@@ -1,5 +1,5 @@
 # Oi, eu sou o João Marcos ou joaojmr26
-## Só fazendo minhas coisas
+## Eu faço algumas coisas
 
 <div align="center">
   <a href="https://github.com/onedark ">
