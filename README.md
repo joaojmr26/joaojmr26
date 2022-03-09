@@ -1,4 +1,5 @@
-## Oi, eu sou o João Marcos ou joaojmr26, Dev e Criador de Conteúdo
+## Oi, eu sou o João Marcos ou joaojmr26
+# Fazendo as minhas coisas
 
 <div align="center">
   <a href="https://github.com/onedark ">
