@@ -1,4 +1,4 @@
-<h2 align="center"> Oi, eu sou o João Marcos ou joaojmr26, tenho 18 anos </h2>
+<h2 align="center"> Oi, eu sou o João Marcos, tenho 18 anos </h2>
 <h3 align="center"> E eu faço algumas coisas </h3>
 
 <div align="center">
